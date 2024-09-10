@@ -46,7 +46,7 @@ void printar(){
 	printf("1 - Imprimir Curso                   \n");
 	printf("2 - Imprimir Disciplina              \n");
 	printf("3 - Imprimir Professor               \n");
-    printf("4 - Imprimir Disciplinas Ministradas \n");
+        printf("4 - Imprimir Disciplinas Ministradas \n");
 	printf("0 - Sair                             \n\n");
 	printf("Digite uma Opcao: ");
     
